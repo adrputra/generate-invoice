@@ -1,8 +1,0 @@
-D:\ADR\Metrodata\Tugas MCC\BasicCoding\GenerateInvoice\bin\Debug\GenerateInvoice.exe.config
-D:\ADR\Metrodata\Tugas MCC\BasicCoding\GenerateInvoice\bin\Debug\GenerateInvoice.exe
-D:\ADR\Metrodata\Tugas MCC\BasicCoding\GenerateInvoice\bin\Debug\GenerateInvoice.pdb
-D:\ADR\Metrodata\Tugas MCC\BasicCoding\GenerateInvoice\obj\Debug\GenerateInvoice.csproj.AssemblyReference.cache
-D:\ADR\Metrodata\Tugas MCC\BasicCoding\GenerateInvoice\obj\Debug\GenerateInvoice.csproj.SuggestedBindingRedirects.cache
-D:\ADR\Metrodata\Tugas MCC\BasicCoding\GenerateInvoice\obj\Debug\GenerateInvoice.csproj.CoreCompileInputs.cache
-D:\ADR\Metrodata\Tugas MCC\BasicCoding\GenerateInvoice\obj\Debug\GenerateInvoice.exe
-D:\ADR\Metrodata\Tugas MCC\BasicCoding\GenerateInvoice\obj\Debug\GenerateInvoice.pdb
